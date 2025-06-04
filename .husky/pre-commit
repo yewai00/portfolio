@@ -1,3 +1,4 @@
 echo 'Pre-commit hook running...'
 pnpm lint
 pnpm format
+git add .
